@@ -1,4 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed almaghamisi
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/id-x6x/count.svg?"  />
+</div>
+
 ============================================================================================================================================
 
 CyberSecurity
@@ -32,30 +37,8 @@ CyberSecurity
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/id-x6x/count.svg?"  />
-</div>
 
-
-###
-
-<br clear="both">
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
+<img src="https://raw.githubusercontent.com/id-x6x/id-x6x/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
