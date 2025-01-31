@@ -28,12 +28,34 @@ CyberSecurity
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=id-x6x&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=id-x6x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/id-x6x/count.svg?"  />
+</div>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/id-x6x/id-x6x/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=id-x6x&icon=0&color=0)](https://visitcount.itsvg.in)
 
