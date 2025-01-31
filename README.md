@@ -31,14 +31,11 @@ CyberSecurity
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=id-x6x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/id-x6x/count.svg?"  />
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/id-x6x/count.svg?"  />
-</div>
+
 
 ###
 
@@ -62,6 +59,4 @@ CyberSecurity
 
 ###
 ---
-[![](https://visitcount.itsvg.in/api?id=id-x6x&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
