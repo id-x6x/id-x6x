@@ -11,9 +11,8 @@ CyberSecurity
 
 * 🌍  I'm based in Saudi Arabia
 * 🖥️  See my portfolio at [m-cyber.io](http://m-cyber.io/)
-* ✉️  You can contact me at [id\_x8x@outlook.com / mohammed@m-cyber.io](mailto:id_x8x@outlook.com / mohammed@m-cyber.io)
-
-  
+* ✉️  You can contact me at [id\_x8x@outlook.com | mohammed@m-cyber.io](mailto:id_x8x@outlook.com | mohammed@m-cyber.io)
+*   
 ### Skills
 
 
