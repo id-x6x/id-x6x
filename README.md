@@ -35,7 +35,6 @@ CyberSecurity
 
 
 
-<img src="https://raw.githubusercontent.com/id-x6x/id-x6x/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
