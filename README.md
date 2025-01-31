@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://profile-counter.glitch.me/id-x6x/count.svg?"  />
 </div>
 
-============================================================================================================================================
 
 CyberSecurity
 -------------
