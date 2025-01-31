@@ -27,7 +27,6 @@ CyberSecurity
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=id-x6x&theme=dark&hide_border=false)<br/>
-
 ![](https://github-profile-trophy.vercel.app/?username=id-x6x&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Quote
