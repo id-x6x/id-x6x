@@ -64,9 +64,6 @@ CyberSecurity
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/id-x6x/id-x6x/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
